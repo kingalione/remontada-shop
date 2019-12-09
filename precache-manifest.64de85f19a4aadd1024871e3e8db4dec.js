@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "9720d66f92b04b224a34d8edf86cb34a",
+    "revision": "7c9933a27c469f9d6b1344676904204e",
     "url": "/remontada-shop/index.html"
   },
   {
-    "revision": "b368fcc9604bd0982ca2",
-    "url": "/remontada-shop/static/css/main.27fd15f6.chunk.css"
+    "revision": "e358ff6707aecdda7f09",
+    "url": "/remontada-shop/static/css/main.b4030193.chunk.css"
   },
   {
     "revision": "d984428465cfba4aea9f",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/remontada-shop/static/js/2.9fdec15e.chunk.js.LICENSE"
   },
   {
-    "revision": "b368fcc9604bd0982ca2",
-    "url": "/remontada-shop/static/js/main.3d6730dc.chunk.js"
+    "revision": "e358ff6707aecdda7f09",
+    "url": "/remontada-shop/static/js/main.af8ce826.chunk.js"
   },
   {
     "revision": "ef90dd01afd598676a26",
