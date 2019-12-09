@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/remontada-shop/static/css/main.d4be6cde.chunk.css",
-    "main.js": "/remontada-shop/static/js/main.f40280ea.chunk.js",
-    "main.js.map": "/remontada-shop/static/js/main.f40280ea.chunk.js.map",
+    "main.js": "/remontada-shop/static/js/main.2dd26341.chunk.js",
+    "main.js.map": "/remontada-shop/static/js/main.2dd26341.chunk.js.map",
     "runtime-main.js": "/remontada-shop/static/js/runtime-main.509c6f9e.js",
     "runtime-main.js.map": "/remontada-shop/static/js/runtime-main.509c6f9e.js.map",
     "static/js/2.73fa1156.chunk.js": "/remontada-shop/static/js/2.73fa1156.chunk.js",
     "static/js/2.73fa1156.chunk.js.map": "/remontada-shop/static/js/2.73fa1156.chunk.js.map",
     "index.html": "/remontada-shop/index.html",
-    "precache-manifest.a0be728716d7ba6411a6d1eec9041bbb.js": "/remontada-shop/precache-manifest.a0be728716d7ba6411a6d1eec9041bbb.js",
+    "precache-manifest.2d17f230ccc8ad4b2abd13388dae9345.js": "/remontada-shop/precache-manifest.2d17f230ccc8ad4b2abd13388dae9345.js",
     "service-worker.js": "/remontada-shop/service-worker.js",
     "static/css/main.d4be6cde.chunk.css.map": "/remontada-shop/static/css/main.d4be6cde.chunk.css.map",
     "static/js/2.73fa1156.chunk.js.LICENSE": "/remontada-shop/static/js/2.73fa1156.chunk.js.LICENSE"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.509c6f9e.js",
     "static/js/2.73fa1156.chunk.js",
     "static/css/main.d4be6cde.chunk.css",
-    "static/js/main.f40280ea.chunk.js"
+    "static/js/main.2dd26341.chunk.js"
   ]
 }
