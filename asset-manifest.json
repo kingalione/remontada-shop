@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/remontada-shop/static/css/main.08e813b9.chunk.css",
-    "main.js": "/remontada-shop/static/js/main.35d6215a.chunk.js",
-    "main.js.map": "/remontada-shop/static/js/main.35d6215a.chunk.js.map",
+    "main.css": "/remontada-shop/static/css/main.cbe402c1.chunk.css",
+    "main.js": "/remontada-shop/static/js/main.c7da49f4.chunk.js",
+    "main.js.map": "/remontada-shop/static/js/main.c7da49f4.chunk.js.map",
     "runtime-main.js": "/remontada-shop/static/js/runtime-main.509c6f9e.js",
     "runtime-main.js.map": "/remontada-shop/static/js/runtime-main.509c6f9e.js.map",
     "static/js/2.640aa76a.chunk.js": "/remontada-shop/static/js/2.640aa76a.chunk.js",
     "static/js/2.640aa76a.chunk.js.map": "/remontada-shop/static/js/2.640aa76a.chunk.js.map",
     "index.html": "/remontada-shop/index.html",
-    "precache-manifest.52bbd893c37b4e640a70036159b64afc.js": "/remontada-shop/precache-manifest.52bbd893c37b4e640a70036159b64afc.js",
+    "precache-manifest.b8af38faa623a033f9fcd7f6ccbfb61f.js": "/remontada-shop/precache-manifest.b8af38faa623a033f9fcd7f6ccbfb61f.js",
     "service-worker.js": "/remontada-shop/service-worker.js",
-    "static/css/main.08e813b9.chunk.css.map": "/remontada-shop/static/css/main.08e813b9.chunk.css.map",
+    "static/css/main.cbe402c1.chunk.css.map": "/remontada-shop/static/css/main.cbe402c1.chunk.css.map",
     "static/js/2.640aa76a.chunk.js.LICENSE": "/remontada-shop/static/js/2.640aa76a.chunk.js.LICENSE"
   },
   "entrypoints": [
     "static/js/runtime-main.509c6f9e.js",
     "static/js/2.640aa76a.chunk.js",
-    "static/css/main.08e813b9.chunk.css",
-    "static/js/main.35d6215a.chunk.js"
+    "static/css/main.cbe402c1.chunk.css",
+    "static/js/main.c7da49f4.chunk.js"
   ]
 }

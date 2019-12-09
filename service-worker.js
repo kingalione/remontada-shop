@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/remontada-shop/precache-manifest.52bbd893c37b4e640a70036159b64afc.js"
+  "/remontada-shop/precache-manifest.b8af38faa623a033f9fcd7f6ccbfb61f.js"
 );
 
 self.addEventListener('message', (event) => {
