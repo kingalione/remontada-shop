@@ -1,22 +1,23 @@
 {
   "files": {
-    "main.css": "/remontada-shop/static/css/main.9ce1360b.chunk.css",
-    "main.js": "/remontada-shop/static/js/main.b802f4e8.chunk.js",
-    "main.js.map": "/remontada-shop/static/js/main.b802f4e8.chunk.js.map",
+    "main.css": "/remontada-shop/static/css/main.14503c8a.chunk.css",
+    "main.js": "/remontada-shop/static/js/main.44d5be6c.chunk.js",
+    "main.js.map": "/remontada-shop/static/js/main.44d5be6c.chunk.js.map",
     "runtime-main.js": "/remontada-shop/static/js/runtime-main.509c6f9e.js",
     "runtime-main.js.map": "/remontada-shop/static/js/runtime-main.509c6f9e.js.map",
-    "static/js/2.b461c39d.chunk.js": "/remontada-shop/static/js/2.b461c39d.chunk.js",
-    "static/js/2.b461c39d.chunk.js.map": "/remontada-shop/static/js/2.b461c39d.chunk.js.map",
+    "static/js/2.694b0290.chunk.js": "/remontada-shop/static/js/2.694b0290.chunk.js",
+    "static/js/2.694b0290.chunk.js.map": "/remontada-shop/static/js/2.694b0290.chunk.js.map",
     "index.html": "/remontada-shop/index.html",
-    "precache-manifest.c73df05c880b85902867ddb411e4d398.js": "/remontada-shop/precache-manifest.c73df05c880b85902867ddb411e4d398.js",
+    "precache-manifest.ed0eb92ac805553506144f21a09e0b6f.js": "/remontada-shop/precache-manifest.ed0eb92ac805553506144f21a09e0b6f.js",
     "service-worker.js": "/remontada-shop/service-worker.js",
-    "static/css/main.9ce1360b.chunk.css.map": "/remontada-shop/static/css/main.9ce1360b.chunk.css.map",
-    "static/js/2.b461c39d.chunk.js.LICENSE": "/remontada-shop/static/js/2.b461c39d.chunk.js.LICENSE"
+    "static/css/main.14503c8a.chunk.css.map": "/remontada-shop/static/css/main.14503c8a.chunk.css.map",
+    "static/js/2.694b0290.chunk.js.LICENSE": "/remontada-shop/static/js/2.694b0290.chunk.js.LICENSE",
+    "static/media/crown.ed28accb.svg": "/remontada-shop/static/media/crown.ed28accb.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.509c6f9e.js",
-    "static/js/2.b461c39d.chunk.js",
-    "static/css/main.9ce1360b.chunk.css",
-    "static/js/main.b802f4e8.chunk.js"
+    "static/js/2.694b0290.chunk.js",
+    "static/css/main.14503c8a.chunk.css",
+    "static/js/main.44d5be6c.chunk.js"
   ]
 }
