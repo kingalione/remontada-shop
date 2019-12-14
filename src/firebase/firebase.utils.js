@@ -4,8 +4,8 @@ import 'firebase/auth';
 
 const config = {
   apiKey: 'AIzaSyAx3AGsyMBCulV1_0-KSRJgfnSIXyXSwLw',
-  authDomain: 'remontada-db.REACT_APPapp.com',
-  databaseURL: 'https://remontada-db.REACT_APPio.com',
+  authDomain: 'remontada-db.firebaseapp.com',
+  databaseURL: 'https://remontada-db.firebaseio.com',
   projectId: 'remontada-db',
   storageBucket: 'remontada-db.appspot.com',
   messagingSenderId: '1023941467506',
@@ -19,7 +19,7 @@ export const auth = firebase.auth();
 export const firestore = firebase.firestore();
 
 const provider = new firebase.auth.GoogleAuthProvider();
-provider.setCustomParameters({ promt: 'select_account' });
+provider.setCustomParameters({ prompt: 'select_account' });
 
 export const signInWithGoogle = () => auth.signInWithPopup(provider);
 
