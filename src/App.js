@@ -20,18 +20,12 @@ class App extends React.Component {
   unsubscribeFromAuth = null;
 
   componentDidMount() {
-    this.unsubscribeFromAuth = auth.onAuthStateChanged(
-      ({ displayName, email }) => {
-        this.setState({
-          currentUser: {
-            displayName: displayName,
-            email: email
-          }
-        });
-
-        console.log(this.state.currentUser);
-      }
-    );
+    this.unsubscribeFromAuth = auth.onAuthStateChanged(user => {
+      this.setState({
+        currentUser: user
+      });
+      console.log(this.state.currentUser);
+    });
   }
 
   componentWillUnmount() {
@@ -41,7 +35,7 @@ class App extends React.Component {
   render() {
     return (
       <div>
-        <Header />
+        <Header currentUser={this.state.currentUser} />
         <Switch>
           <Route exact={true} path="/" component={HomePage} />
           <Route path="/shop" component={ShopPage} />
